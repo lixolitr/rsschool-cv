@@ -52,10 +52,10 @@
 #### Work Experience
 
 **PJSC "Zaporizhavtotrans"**
-| YEAR | POSITION |
-| ---- | -------- |
-| 2006 | System administrator|
-| 2012 | Head of IT department |
+| **YEAR** | **POSITION**                   |
+|:--------:|:------------------------------:|
+| **2006** | System Administrator           |
+| **2012** | Chief Technology Officer       |
 
 ---
 
