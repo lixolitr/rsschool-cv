@@ -4,19 +4,22 @@
 
 ### _RS SCHOOL TRAINEE_
 
+
+---
+* 🌍  I'm based in Kyiv, Ukraine
+* ✉️  You can contact me at [lixolitr@gmail.com](mailto:lixolitr@gmail.com )
+* 🧠  I'm learning Git, HTML, CSS, SCSS, JavaScript, React, Material UI, Node.js and Express
+* 🤝  I'm open to collaborating on interesting projects
 ---
 
 #### Contact me
 
-Telegram: [@lixolitr](https://t.me/lixolitr)
 
-E-mail: <lixolitr@gmail.com>
+<a href="https://www.github.com/lixolitr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /></a>   Github: [lixolitr](https://github.com/lixolitr)
 
-Github: [lixolitr](https://github.com/lixolitr)
+<a href="https://www.linkedin.com/in/lixolitr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a>  LinkedIn: [Dmytro Lykholit](https://linkedin.com/in/dmytro-lykholit)
 
-LinkedIn: [Dmytro Lykholit](https://linkedin.com/in/dmytro-lykholit)
-
-Discord: _Dmytro Lykholit (**@lixolitr**)_
+<a href="https://discord.com/users/lixolitr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="16" height="16" /></a>  Discord: [Dmytro Lykholit](https://discord.com/users/lixolitr)
 
 ---
 
